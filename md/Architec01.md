@@ -11,8 +11,6 @@
 
 <div align="center">
 	<hr />
-    <p>
-    </p>
     <hr />
 </div>
 
