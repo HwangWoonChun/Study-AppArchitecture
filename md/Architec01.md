@@ -9,7 +9,13 @@
 > decoupling
 > 소프트웨어 시스템에서 두 엔티티의 관계를 말하는데 decoupling 은 의존성이 느슨하다는 것을 의미 한다.
 
-
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <hr />
+</div>
 
 # 코드레벨에서의 아키텍쳐, 재사용이 가능한 코드를 만드는 스킬
 
