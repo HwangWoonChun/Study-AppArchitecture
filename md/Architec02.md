@@ -10,7 +10,7 @@
 * Builder 는 리블렛 객체를 생성하는 역할을 한다.
 * Dependency 를 인자값으로 받는다.
 * 빌드 함수를 통해 리블렛에 필요한 객체를 생성한다.
-```swift
+```swift
 import ModernRIBs
 
 public protocol AppHomeDependency: Dependency {
